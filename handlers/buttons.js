@@ -12,7 +12,6 @@ function createAgileLeaderButton() {
         .setCustomId('Agile Leader')
         .setLabel('Agile Leader')
         .setStyle(ButtonStyle.Success)
-        .setDisabled(true);
 }
 
 function createBasicButton() {
